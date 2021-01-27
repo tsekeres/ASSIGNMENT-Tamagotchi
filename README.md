@@ -12,11 +12,6 @@ If you are worried you version will never be as good as the original you can sti
 ## Setup
 This project will be built with modules that are laced together with webpack.  Set up webpack, eslint, and babel like we have done in class.
 
-## Styling
-You may **NOT** use bootstrap or any styling framework for this project.
-
-All your styling should be in files that end in `.scss`.  At minimum you should be using SASS variables and nesting.  But I challenge you to dig into the [SASS Guide](https://sass-lang.com/guide) and use some of the other cool sass tools.
-
 ## HTML
 Your index.html file should look like this:
 ```html
@@ -43,13 +38,12 @@ You may NOT add any other code to this file.  Any other elements that you want i
 ## General Requirements
 Your code should be:
 * Error free
-* Bootstrap free
-* Amazingly styled - yay SASS!!!!
+* Amazingly styled
 * Made up of re-useable functions
 * Clean
 
 ## Specific Requirements
-Your website should be divided into quadrants.  Each quadrant should have a different background color and represents a different activity that you can perform.  The four activities are: eat, sleep, play, and fight.  Each of these activities should be a component with a corresponding `scss` file.  Find out more about each component below.
+Your website should be divided into quadrants.  Each quadrant should have a different background color and represents a different activity that you can perform.  The four activities are: eat, sleep, play, and fight.  Each of these activities should be a component with a corresponding `css` file.  Find out more about each component below.
 
 ### Eat
 The Eat component should appear in the upper left quadrant.  It should have a private variable called `full`.  This variable should be set to 100 on page load.  This module should have 2 buttons.  One should be a healthy food that adds 10 to `full` when pressed.  The other button should be an unhealthy food that subtracts 3 from `full` when pushed.
