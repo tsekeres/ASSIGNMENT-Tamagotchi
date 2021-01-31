@@ -10,7 +10,7 @@ For this HW we are going to create a simplified version of a Tamagotchi.
 If you are worried you version will never be as good as the original you can still buy yourself a real one [HERE](https://www.bandai.com/tamagotchi/)
 
 ## Setup
-This project will be built with modules that are laced together with webpack.  Set up webpack, eslint, and babel like we have done in class.
+This project will be built with modules that are laced together with webpack.
 
 ## HTML
 Your index.html file should look like this:
