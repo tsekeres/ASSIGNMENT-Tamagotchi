@@ -12,6 +12,14 @@ If you are worried you version will never be as good as the original you can sti
 ## Setup
 This project will be built with modules that are laced together with webpack.
 
+To get started run:
+```
+$ sudo npm install
+$ npm start
+```
+
+Follow the instructions from the [Webpack template](https://github.com/nss-nightclass-projects/webpack-template/blob/master/README.md) to ensure you make all the updates to get the project started.
+
 ## HTML
 Your index.html file should look like this:
 ```html
