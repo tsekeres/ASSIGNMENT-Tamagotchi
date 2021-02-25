@@ -2,8 +2,42 @@
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
 
 body {
-  background-color: antiquewhite;
-  color: brown;
-  text-align: center;
-  margin-top: 100px;
+  #eat {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 50%;
+    bottom: 50%;
+    background: red;
+    border: solid #000;
+    border-width: 0 10px 10px 0;
+  }
+  #play {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    right: 0;
+    bottom: 50%;
+    background: blue;
+    border: solid #000;
+    border-width: 0 0 10px 0;
+  }
+  #fight {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 50%;
+    bottom: 0;
+    background: yellow;
+    border: solid #000;
+    border-width: 0 10px 0 0;
+  }
+  #sleep {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: 0;
+    bottom: 0;
+    background: green;
+  }
 }
