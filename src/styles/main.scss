@@ -8,7 +8,7 @@ body {
     left: 0;
     right: 50%;
     bottom: 50%;
-    background: red;
+    background: #388E3C;
     border: solid #000;
     border-width: 0 10px 10px 0;
   }
@@ -18,7 +18,7 @@ body {
     left: 50%;
     right: 0;
     bottom: 50%;
-    background: blue;
+    background: #448AFF;
     border: solid #000;
     border-width: 0 0 10px 0;
   }
@@ -28,7 +28,7 @@ body {
     left: 0;
     right: 50%;
     bottom: 0;
-    background: yellow;
+    background: #FF5722;
     border: solid #000;
     border-width: 0 10px 0 0;
   }
@@ -38,6 +38,7 @@ body {
     left: 50%;
     right: 0;
     bottom: 0;
-    background: green;
+    background: #757575;
+;
   }
 }

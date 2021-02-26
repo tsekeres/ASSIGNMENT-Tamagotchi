@@ -4,11 +4,11 @@ const domBuilder = () => {
   ).innerHTML = `<div id='main-container' class='flex-lg-column'>
                                                 <div id='eatName' class='d-flex justify-content-center'>Eat</div>
                                                 <hr>
-                                                <div id='eatScore' class='d-flex justify-content-center'>100</div>
+                                                <div id='eatScore' class='d-flex justify-content-center'></div>
                                                 <hr>
                                                 <div class='d-flex justify-content-around align-items-end'>
                                                   <button id='eatHealthy'>Healthy<br>+10</button>
-                                                  <button id='eatHealthy'>Unhealthy<br>-3</button>
+                                                  <button id='eatUnhealthy'>Unhealthy<br>-3</button>
                                                 </div>
                                               </div>`;
   document.querySelector('#play').innerHTML = `<div id='main-container'>
