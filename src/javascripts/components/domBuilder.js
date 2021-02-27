@@ -1,7 +1,5 @@
 const domBuilder = () => {
-  document.querySelector(
-    '#eat'
-  ).innerHTML = `<div id='main-container' class='flex-lg-column'>
+  document.querySelector('#eat').innerHTML = `<div id='main-container'>
                                                 <div id='eatName' class='d-flex justify-content-center'>Eat</div>
                                                 <hr>
                                                 <div id='eatScore' class='d-flex justify-content-center'></div>
