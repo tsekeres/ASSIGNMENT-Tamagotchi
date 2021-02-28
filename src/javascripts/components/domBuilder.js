@@ -1,3 +1,8 @@
+import { initialEatScore } from './eat';
+import { initialFightScore } from './fight';
+import { initialPlayScore } from './play';
+import { initialSleepScore } from './sleep';
+
 const domBuilder = () => {
   document.querySelector('#eat').innerHTML = `<div id='main-container'>
                                                 <div id='eatName' class='d-flex justify-content-center'>Eat</div>
@@ -7,6 +12,7 @@ const domBuilder = () => {
                                                 <div class='d-flex justify-content-around align-items-end'>
                                                   <button id='eatHealthy'>Healthy<br>+10</button>
                                                   <button id='eatUnhealthy'>Unhealthy<br>-3</button>
+                                                  <div></div>
                                                 </div>
                                               </div>`;
   document.querySelector('#play').innerHTML = `<div id='main-container'>
@@ -34,5 +40,10 @@ const domBuilder = () => {
                                                 <button id='sleepDeep'>Deep Sleep<br>+60</button>
                                               </div>`;
 };
+
+initialEatScore();
+initialFightScore();
+initialPlayScore();
+initialSleepScore();
 
 export default domBuilder;
