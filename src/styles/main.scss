@@ -2,8 +2,58 @@
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
 
 body {
-  background-color: antiquewhite;
-  color: brown;
-  text-align: center;
-  margin-top: 100px;
+  #eat {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 50%;
+    bottom: 50%;
+    background: #388E3C;
+    border: solid #000;
+    border-width: 0 10px 10px 0;
+  }
+  #play {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 50%;
+    right: 0;
+    bottom: 50%;
+    background: #448AFF;
+    border: solid #000;
+    border-width: 0 0 10px 0;
+  }
+  #fight {
+    position: absolute;
+    z-index: -1;
+    top: 50%;
+    left: 0;
+    right: 50%;
+    bottom: 0;
+    background: #FF5722;
+    border: solid #000;
+    border-width: 0 10px 0 0;
+  }
+  #sleep {
+    position: absolute;
+    z-index: -1;
+    top: 50%;
+    left: 50%;
+    right: 0;
+    bottom: 0;
+    background: #757575;
+  }
+}
+
+.mascotImg {
+  position: absolute;
+  background-color: cornsilk;
+  border: 10px solid black;
+  top: 27%;
+  left: 39%;
+  height: 240px;
+  width: 20%;
+  border-radius: 15%;
+  margin: 30px auto;
 }
