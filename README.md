@@ -22,7 +22,8 @@ This app is growing but already has a colorful screen and a super adorable pet i
 Screenshots of your project:
 
 List of contributors and links to their GH profiles
-Link to Loom video
+Link to Loom video:
+https://www.loom.com/share/a65523b3ab80404797a58183af967dd5
 
 
 
