@@ -20,6 +20,7 @@ List of features:
 This app is growing but already has a colorful screen and a super adorable pet image that focuses your attention on the four quadrant interactive screen. Each quadrant has a different part of the pets life to control. Sleeping, Eating, Playing, and Defending yourself!! Two buttons on each quadrant control the actions and furture of your pet.
 
 Screenshots of your project:
+https://github.com/tsekeres/ASSIGNMENT-Tamagotchi/blob/main/screenshots/Screenshot%20(14).png
 
 List of contributors and links to their GH profiles
 Link to Loom video:
