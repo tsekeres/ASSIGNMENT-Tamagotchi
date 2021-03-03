@@ -8,7 +8,7 @@ Link to your wireframes/prototype:
 Did this one old school on a piece of paper! Coming soon...
 
 Link to the deployed project:
-ts-tamagotchi.netlify.app
+https://ts-tamagotchi.netlify.app/
 
 Link to your project board:
 https://github.com/tsekeres/ASSIGNMENT-Tamagotchi/projects/1
