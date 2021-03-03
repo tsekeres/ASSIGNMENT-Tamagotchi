@@ -1,9 +1,15 @@
 Name of the Project:
 Tamagotchi light
-Overview of the project:
 
-Link to your wireframes/prototype
-Link to the deployed project (will learn in week 5)
+Overview of the project:
+This project was a fun knockoff of the popular 80's toy tamagotchis. The site has four areas of the creature's life that you can interact with to keep your tamagotchi happy and healthy!
+
+Link to your wireframes/prototype:
+Did this one old school on a piece of paper! Coming soon...
+
+Link to the deployed project:
+ts-tamagotchi.netlify.app
+
 Link to your project board (yes...even though it is a part of the repo)
 Description of the user
 List of features
