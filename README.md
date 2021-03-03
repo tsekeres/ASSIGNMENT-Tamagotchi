@@ -1,15 +1,29 @@
 Name of the Project:
 Tamagotchi light
-Overview of the project:
 
-Link to your wireframes/prototype
-Link to the deployed project (will learn in week 5)
-Link to your project board (yes...even though it is a part of the repo)
-Description of the user
-List of features
-Screenshots of your project
+Overview of the project:
+This project was a fun knockoff of the popular 80's toy tamagotchis. The site has four areas of the creature's life that you can interact with to keep your tamagotchi happy and healthy!
+
+Link to your wireframes/prototype:
+Did this one old school on a piece of paper! Coming soon...
+
+Link to the deployed project:
+ts-tamagotchi.netlify.app
+
+Link to your project board:
+https://github.com/tsekeres/ASSIGNMENT-Tamagotchi/projects/1
+
+Description of the user:
+My tamagotchi user is a person looking to check in on my coding progress or a lover of 80's culture that wants to relive the glory days!! Take a minute to enjoy an old favorite and try your hand at keeping your pet happy and having fun!
+
+List of features:
+This app is growing but already has a colorful screen and a super adorable pet image that focuses your attention on the four quadrant interactive screen. Each quadrant has a different part of the pets life to control. Sleeping, Eating, Playing, and Defending yourself!! Two buttons on each quadrant control the actions and furture of your pet.
+
+Screenshots of your project:
+
 List of contributors and links to their GH profiles
-Link to Loom video
+Link to Loom video:
+https://www.loom.com/share/a65523b3ab80404797a58183af967dd5
 
 
 
