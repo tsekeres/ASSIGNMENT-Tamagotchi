@@ -1,6 +1,6 @@
 import printToDom from './printToDom';
 
-let rested = 100;
+let rested = 50;
 
 const initialSleepScore = () => {
   const domString = rested;
